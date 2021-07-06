@@ -1,0 +1,2 @@
+Index.php --> Check Availability Status -->Login for data entry--> login.php-->on clicking signIn --> form.php--> Insert button clicked --> Availability.php
+
